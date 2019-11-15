@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\risma\source\repos\reliable_data_transfer_1.9\reliable_data_transfer\Source.cpp(19,26): warning C4244:  'initializing': conversion from 'DWORD' to 'float', possible loss of data
+C:\Users\risma\source\repos\reliable_data_transfer_1.9\reliable_data_transfer\Source.cpp(27,27): warning C4244:  'initializing': conversion from 'DWORD' to 'float', possible loss of data
+C:\Users\risma\source\repos\reliable_data_transfer_1.9\reliable_data_transfer\Source.cpp(28,16): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\risma\source\repos\reliable_data_transfer_1.9\reliable_data_transfer\Source.cpp(76,12): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\risma\source\repos\reliable_data_transfer_1.9\reliable_data_transfer\Source.cpp(77,26): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\risma\source\repos\reliable_data_transfer_1.9\reliable_data_transfer\Source.cpp(78,25): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\risma\source\repos\reliable_data_transfer_1.9\reliable_data_transfer\Source.cpp(95,18): warning C4244:  '=': conversion from 'UINT64' to 'DWORD', possible loss of data
+C:\Users\risma\source\repos\reliable_data_transfer_1.9\reliable_data_transfer\Source.cpp(111,17): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\risma\source\repos\reliable_data_transfer_1.9\reliable_data_transfer\Source.cpp(130,13): warning C4244:  'initializing': conversion from 'UINT64' to 'int', possible loss of data
+  reliable_data_transfer.vcxproj -> C:\Users\risma\source\repos\reliable_data_transfer_1.9\x64\Debug\reliable_data_transfer.exe
